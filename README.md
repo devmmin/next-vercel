@@ -1,4 +1,4 @@
-### 기술스택
+### 기술스택 🛠
 
 - Next.js
 - Radix-ui
@@ -7,7 +7,7 @@
 - Eslint/Prettier
 - Swr
 
-### TODO
+### TODO 📝
 
 - Next.js 앱을 Vercel로 배포
 - Stitches 의 Styled function을 이용한 Styling
