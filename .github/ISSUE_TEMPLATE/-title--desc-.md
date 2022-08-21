@@ -1,7 +1,7 @@
 ---
-name: "요약"
+name: "[title] desc."
 about: 새로운 기능을 개발 또는 수정 개발하는 내용의 이슈를 생성합니다.
-title: "요약"
+title: "[title] desc."
 labels: ''
 assignees: ''
 
