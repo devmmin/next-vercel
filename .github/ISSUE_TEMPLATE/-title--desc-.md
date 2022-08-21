@@ -1,16 +1,11 @@
 ---
-name: "[title] desc."
+name: "요약"
 about: 새로운 기능을 개발 또는 수정 개발하는 내용의 이슈를 생성합니다.
-title: "[title] desc."
+title: "요약"
 labels: ''
 assignees: ''
 
 ---
-
-- [ ] setting
-- [ ] new feature
-- [ ] patch
-- [ ] bug fix
 
 1. 개발 내용 요약
 
